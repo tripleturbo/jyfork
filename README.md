@@ -1,10 +1,5 @@
 # calculator
 
-계산기를 작성해 봅시다
-** Test2 가 수정합니다 **
++ Main이 수정합니다
 
-# beom 
-## Fork
-
-
-this is new
+더하기 빼기 곱하기 나눅
